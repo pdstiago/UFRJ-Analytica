@@ -1,1 +1,1 @@
-This repository contains my projects as a member of the data science team of the best federal university of Brazil, UFRJ
+This repository contains my projects as a member of the data science team of the Federal Univerity of Rio de Janeiro
