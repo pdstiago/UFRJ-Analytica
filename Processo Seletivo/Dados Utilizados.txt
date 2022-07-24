@@ -1,9 +1,0 @@
-Como alguns arquivos são muito grandes, eu não consigo fazer o upload deles no Github, os links das bases utilizadas estão disponíveis abaixo:
-
-"adh.csv", disponível em: https://basedosdados.org/dataset/mundo-onu-adh?bdm_table=municipio
-
-"id_inep.csv", disponível em: https://basedosdados.org/dataset/br-inep-indicadores-educacionais?bdm_table=municipio
-
-"ideb.csv", disponível em: https://basedosdados.org/dataset/br-inep-ideb?bdm_table=municipio
-
-"siconfi.csv", disponível em: https://basedosdados.org/dataset/br-me-siconfi?bdm_table=municipio_despesas_funcao
