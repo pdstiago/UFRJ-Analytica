@@ -1,9 +1,0 @@
-As some files are too big, I can't upload them here, so I'm providing their links:
-
-"adh.csv", available here: https://basedosdados.org/dataset/mundo-onu-adh?bdm_table=municipio
-
-"id_inep.csv", available here: https://basedosdados.org/dataset/br-inep-indicadores-educacionais?bdm_table=municipio
-
-"ideb.csv", available here: https://basedosdados.org/dataset/br-inep-ideb?bdm_table=municipio
-
-"siconfi.csv", available here: https://basedosdados.org/dataset/br-me-siconfi?bdm_table=municipio_despesas_funcao
